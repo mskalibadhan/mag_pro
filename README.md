@@ -1,5 +1,5 @@
 {
-	"ConfigVersion": 13.7,
+	"ConfigVersion": 13.8,
 	"ConfigUpdateMsg": "Added Premium Servers",
 	"WarningMsg": "Do not download or streaming.This is for Gaming only. Caught will be ban permanently.",
 	"Networks": [
@@ -14,6 +14,28 @@
 			"Sni":"",
 			"Payload":""
 		},
+{
+		"Name": "Mobily Free X SA (BD)",
+		"Info": "Mobily Free working Dammam Riyadh Madina Najran Ha'il Alkassim Yanbu & unblock Area",
+		"FrontQuery": "",
+		"BackQuery": "",
+		"UseCustom": false,
+		"CustomProxy": "",
+		"Direct": "",
+		"Sni": "",
+		"Payload": "😁😆😁😡😁🙁😁🙁😁😄😁😆😄😁😅😛😄😟😱😘😱😡😍😆😍😁😄😡😍😛😱😡😍😅😍😁😄😖😁😛😱😆😱😡😱🙁😱🙁😱😄😱😆😍😁😅🙁😱😖😱😡😱😅😱😋😱😔😍😋😅🙁😱😆😱😡😱😖😅🙁😍😆😱😂😅😛😄😟😍😛😍😅😱😡😍😁😱😡😱😆😱😡😱😔😄😖😄😟😱😆😍😅😱😔😱😱😄😖😄😟😱😆😍😅😱😔😱😱😄😖😄😛😁😡😄😆😄😁😅😛😱😘😍😁😍😁😍😛😆😎😅😡😅😡😱😆😱😡😱🙁😱🙁😱😄😱😆😍😁😅🙁😱😖😱😡😱😅😱😋😱😔😍😋😅🙁😱😆😱😡😱😖😅🙁😍😆😱😂😅😡😅😛😄😟😍😛😍😅😱😡😍😁😱😡😱😆😱😡😱😔😄😖😄😟😱😆😍😅😱😔😱😱😄😖😁😘😱😡😍😆😍😁😆😎😅😛😱😆😱😡😱🙁😱🙁😱😄😱😆😍😁😅🙁😱😖😱😡😱😅😱😋😱😔😍😋😅🙁😱😆😱😡😱😖😅🙁😍😆😱😂😄😟😱😆😍😅😱😔😱😱😄😖😄😘😅😖😁😡😱🙁😱😔😱😋😱🙁😱😄😅😖😁😘😱😡😍😆😍😁😆😎😅😛😱😆😱😡😱🙁😱🙁😱😄😱😆😍😁😅🙁😱😖😱😡😱😅😱😋😱😔😍😋😅🙁😱😆😱😡😱😖😅🙁😍😆😱😂😄😟😱😆😍😅😱😔😱😱😄😖😄😘😅😖😁😱😱😡😍😅😍😍😱😂😍😅😱😁😅😖😁😘😱😡😍😆😍😁😆😎😅😛😱😆😱😡😱🙁😱🙁😱😄😱😆😍😁😅🙁😱😖😱😡😱😅😱😋😱😔😍😋😅🙁😱😆😱😡😱😖😅🙁😍😆😱😂😄😟😱😆😍😅😱😔😱😱😄😖😁😆😱😡😱🙁😱🙁😱😄😱😆😍😁😱😋😱😡😱🙁😆😎😅😛😁😟😱😄😱😄😍😛😅😖😁😂😱😔😱😋😍😱😱😄😄😟😱😆😍😅😱😔😱😱😄😖😄😟😱😆😍😅😱😔😱😱😄😖"
+	},
+{
+		"Name": "Mobily Free SA (BD)",
+		"Info": "Mobily Free",
+		"FrontQuery": "",
+		"BackQuery": "",
+		"UseCustom": false,
+		"CustomProxy": "",
+		"Direct": "",
+		"Sni": "",
+		"Payload": "😁😍😁😄😄😁😅😛😱😘😍😁😍😁😍😛😆😎😅😡😅😡😱😆😱😡😱🙁😱🙁😱😄😱😆😍😁😅🙁😱😖😱😡😱😅😱😋😱😔😍😋😅🙁😱😆😱😡😱😖😅🙁😍😆😱😂😅😛😄😟😍😛😍😅😱😡😍😁😱😡😱😆😱😡😱😔😄😖😄😟😱😆😍😅😱😔😱😱😄😖😁😘😱😡😍😆😍😁😆😎😅😛😱😆😱😡😱🙁😱🙁😱😄😱😆😍😁😅🙁😱😖😱😡😱😅😱😋😱😔😍😋😅🙁😱😆😱😡😱😖😅🙁😍😆😱😂😄😟😱😆😍😅😱😔😱😱😄😖😁😆😱😡😱🙁😱🙁😱😄😱😆😍😁😱😋😱😡😱🙁😆😎😅😛😁😟😱😄😱😄😍😛😅😖😁😂😱😔😱😋😍😱😱😄😄😟😱😆😍😅😱😔😱😱😄😖😄😟😱😆😍😅😱😔😱😱😄😖"
+	},
 	{
 			"Name": "Vodafone Free (BD)",
 			"Info": "Qatar Vodafone sim Free",
@@ -357,6 +379,17 @@
 			"Sni": "😍😍😍😍😍😍😅🙁😍😆😱🙁😱😂😍😛😱😆😱😘😱😂😍😁😅🙁😱😆😱😡😱😖",
 			"Payload": ""
 		},
+	{
+		"Name": "Ooredoo Hangama Unlimited (SK)",
+		"Info": "Ooredoo Hangama Media Pack", 
+		"FrontQuery": "",
+		"BackQuery": "",
+		"UseCustom": false,
+		"CustomProxy": "",
+		"Direct": "",
+		"Sni": "😍😍😍😍😍😍😅🙁😱😘😍😄😱🙁😱😍😱😂😱😖😱😂😅🙁😱😆😱😡😱😖",
+		"Payload": ""
+	},
 		{
 			"Name": "Ooredoo PUBG Unlimited (SK)",
 			"Info": "Ooredoo Pubg games", 
@@ -590,371 +623,228 @@
 		    "Cert":"A",
 			"Torrent": false
 		},
-		{
-			"Name": "Server 1",
-			"ServerHost": "159.69.185.99",
-			"OvpnPortTCP": "1194",
-			"OvpnPortUDP": "55",
-			"OvpnPortSSL": "443",
-			"SquidPort": "8080",
-			"WarnMsg": false,
-			"Cert":"C",
-			"Torrent": false
-		},
-		{
-			"Name": "Server 2",
-			"ServerHost": "159.69.191.159",
-			"OvpnPortTCP": "1194",
-			"OvpnPortUDP": "55",
-			"OvpnPortSSL": "443",
-			"SquidPort": "8080",
-			"WarnMsg": false,
-			"Cert":"C",
-			"Torrent": false
-		},
-		{
-			"Name": "Server 3",
-			"ServerHost": "78.47.229.221",
-			"OvpnPortTCP": "1194",
-			"OvpnPortUDP": "55",
-			"OvpnPortSSL": "443",
-			"SquidPort": "8080",
-			"WarnMsg": false,
-			"Cert":"C",
-			"Torrent": false
-		},
-		{
-			"Name": "Server 4",
-			"ServerHost": "159.69.190.209",
-			"OvpnPortTCP": "1194",
-			"OvpnPortUDP": "55",
-			"OvpnPortSSL": "443",
-			"SquidPort": "8080",
-			"WarnMsg": false,
-			"Cert":"C",
-			"Torrent": false
-		},
-		{
-			"Name": "Server 5",
-			"ServerHost": "159.69.190.208",
-			"OvpnPortTCP": "1194",
-			"OvpnPortUDP": "55",
-			"OvpnPortSSL": "443",
-			"SquidPort": "8080",
-			"WarnMsg": false,
-			"Cert":"C",
-			"Torrent": false
-		},
-		{
-			"Name": "Server 6",
-			"ServerHost": "159.69.191.114",
-			"OvpnPortTCP": "1194",
-			"OvpnPortUDP": "55",
-			"OvpnPortSSL": "443",
-			"SquidPort": "8080",
-			"WarnMsg": false,
-			"Cert":"C",
-			"Torrent": false
-		},
-		{
-			"Name": "Server 7",
-			"ServerHost": "159.69.190.170",
-			"OvpnPortTCP": "1194",
-			"OvpnPortUDP": "55",
-			"OvpnPortSSL": "443",
-			"SquidPort": "8080",
-			"WarnMsg": false,
-			"Cert":"C",
-			"Torrent": false
-		},
-		{
-			"Name": "Server 8",
-			"ServerHost": "78.47.244.47",
-			"OvpnPortTCP": "1194",
-			"OvpnPortUDP": "55",
-			"OvpnPortSSL": "443",
-			"SquidPort": "8080",
-			"WarnMsg": false,
-			"Cert":"C",
-			"Torrent": false
-		},
-		{
-			"Name": "Server 9",
-			"ServerHost": "159.69.191.51",
-			"OvpnPortTCP": "1194",
-			"OvpnPortUDP": "55",
-			"OvpnPortSSL": "443",
-			"SquidPort": "8080",
-			"WarnMsg": false,
-			"Cert":"C",
-			"Torrent": false
-		},
-		{
-			"Name": "Server 10",
-			"ServerHost": "78.47.247.84",
-			"OvpnPortTCP": "1194",
-			"OvpnPortUDP": "55",
-			"OvpnPortSSL": "443",
-			"SquidPort": "8080",
-			"WarnMsg": false,
-			"Cert":"C",
-			"Torrent": false
-		},
-		{
-			"Name": "Server 11",
-			"ServerHost": "78.47.244.110",
-			"OvpnPortTCP": "1194",
-			"OvpnPortUDP": "55",
-			"OvpnPortSSL": "443",
-			"SquidPort": "8080",
-			"WarnMsg": false,
-			"Cert":"C",
-			"Torrent": false
-		},
-		{
-			"Name": "Server 12",
-			"ServerHost": "159.69.86.234",
-			"OvpnPortTCP": "1194",
-			"OvpnPortUDP": "55",
-			"OvpnPortSSL": "443",
-			"SquidPort": "8080",
-			"WarnMsg": false,
-			"Cert":"C",
-			"Torrent": false
-		},
-		{
-			"Name": "Server 13",
-			"ServerHost": "159.69.86.211",
-			"OvpnPortTCP": "1194",
-			"OvpnPortUDP": "55",
-			"OvpnPortSSL": "443",
-			"SquidPort": "8080",
-			"WarnMsg": false,
-			"Cert":"C",
-			"Torrent": false
-		},
-		{
-			"Name": "Server 14",
-			"ServerHost": "88.99.185.175",
-			"OvpnPortTCP": "1194",
-			"OvpnPortUDP": "55",
-			"OvpnPortSSL": "443",
-			"SquidPort": "8080",
-			"WarnMsg": false,
-			"Cert":"C",
-			"Torrent": false
-		},
-		{
-			"Name": "Server 15",
-			"ServerHost": "159.69.86.205",
-			"OvpnPortTCP": "1194",
-			"OvpnPortUDP": "55",
-			"OvpnPortSSL": "443",
-			"SquidPort": "8080",
-			"WarnMsg": false,
-			"Cert":"C",
-			"Torrent": false
-		},
-		{
-			"Name": "Server 16",
-			"ServerHost": "185.203.119.225",
-			"OvpnPortTCP": "1194",
-			"OvpnPortUDP": "55",
-			"OvpnPortSSL": "443",
-			"SquidPort": "8080",
-			"WarnMsg": false,
-			"Cert":"C",
-			"Torrent": false
-		},
-		{
-			"Name": "Server 17",
-			"ServerHost": "85.217.171.170",
-			"OvpnPortTCP": "1194",
-			"OvpnPortUDP": "55",
-			"OvpnPortSSL": "443",
-			"SquidPort": "8080",
-			"WarnMsg": false,
-			"Cert":"C",
-			"Torrent": false
-		},
-		{
-			"Name": "Server 18",
-			"ServerHost": "85.217.170.135",
-			"OvpnPortTCP": "1194",
-			"OvpnPortUDP": "55",
-			"OvpnPortSSL": "443",
-			"SquidPort": "8080",
-			"WarnMsg": false,
-			"Cert":"C",
-			"Torrent": false
-		},
-		{
-			"Name": "Server 19",
-			"ServerHost": "185.205.210.176",
-			"OvpnPortTCP": "1194",
-			"OvpnPortUDP": "55",
-			"OvpnPortSSL": "443",
-			"SquidPort": "8080",
-			"WarnMsg": false,
-			"Cert":"C",
-			"Torrent": false
-		},
-		{
-			"Name": "Server 20",
-			"ServerHost": "91.92.136.27",
-			"OvpnPortTCP": "1194",
-			"OvpnPortUDP": "55",
-			"OvpnPortSSL": "443",
-			"SquidPort": "8080",
-			"WarnMsg": false,
-			"Cert":"C",
-			"Torrent": false
-		},
-		{
-			"Name": "Server 21",
-			"ServerHost": "85.217.171.40",
-			"OvpnPortTCP": "1194",
-			"OvpnPortUDP": "55",
-			"OvpnPortSSL": "443",
-			"SquidPort": "8080",
-			"WarnMsg": false,
-			"Cert":"C",
-			"Torrent": false
-		},
-		{
-			"Name": "Server 22",
-			"ServerHost": "185.205.209.13",
-			"OvpnPortTCP": "1194",
-			"OvpnPortUDP": "55",
-			"OvpnPortSSL": "443",
-			"SquidPort": "8080",
-			"WarnMsg": false,
-			"Cert":"C",
-			"Torrent": false
-		},
-		{
-			"Name": "Server 23",
-			"ServerHost": "85.217.171.152",
-			"OvpnPortTCP": "1194",
-			"OvpnPortUDP": "55",
-			"OvpnPortSSL": "443",
-			"SquidPort": "8080",
-			"WarnMsg": false,
-			"Cert":"C",
-			"Torrent": false
-		},
 	{
-			"Name": "Server 31",
+			"Name": "Server 1",
 			"ServerHost": "my1.a2zspecial.site",
 			"OvpnPortTCP": "1194",
 			"OvpnPortUDP": "55",
 			"OvpnPortSSL": "443",
-			"SquidPort": "8080",
+			"SquidPort": "80",
 			"WarnMsg": false,
 		    "Cert":"A",
 			"Torrent": false
 		},
 		{
-			"Name": "Server 32",
+			"Name": "Server 2",
 			"ServerHost": "my2.a2zspecial.site",
 			"OvpnPortTCP": "1194",
 			"OvpnPortUDP": "55",
 			"OvpnPortSSL": "443",
-			"SquidPort": "8080",
+			"SquidPort": "80",
 			"WarnMsg": false,
 			"Cert":"A",
 			"Torrent": false
 		},
 	{
-			"Name": "Server 33",
+			"Name": "Server 3",
 			"ServerHost": "my3.a2zspecial.site",
 			"OvpnPortTCP": "1147",
 			"OvpnPortUDP": "55",
 			"OvpnPortSSL": "443",
-			"SquidPort": "8000",
+			"SquidPort": "80",
 			"WarnMsg": false,
 		    "Cert":"A",
 			"Torrent": false
 		},
 		{
-			"Name": "Server 34",
+			"Name": "Server 4",
 			"ServerHost": "my4.a2zspecial.site",
 			"OvpnPortTCP": "1147",
 			"OvpnPortUDP": "55",
 			"OvpnPortSSL": "443",
-			"SquidPort": "8000",
+			"SquidPort": "80",
 			"WarnMsg": false,
 			"Cert":"A",
 			"Torrent": false
 		},
 	{
-			"Name": "Server 35",
+			"Name": "Server 5",
 			"ServerHost": "my5.a2zspecial.site",
 			"OvpnPortTCP": "1147",
 			"OvpnPortUDP": "55",
 			"OvpnPortSSL": "443",
-			"SquidPort": "8000",
+			"SquidPort": "80",
 			"WarnMsg": false,
 		    "Cert":"A",
 			"Torrent": false
 		},
 		{
-			"Name": "Server 36",
+			"Name": "Server 6",
 			"ServerHost": "my6.a2zspecial.site",
 			"OvpnPortTCP": "1147",
 			"OvpnPortUDP": "55",
 			"OvpnPortSSL": "443",
-			"SquidPort": "8000",
+			"SquidPort": "80",
 			"WarnMsg": false,
 			"Cert":"A",
 			"Torrent": false
 		},
 	{
-			"Name": "Server 37",
+			"Name": "Server 7",
 			"ServerHost": "my7.a2zspecial.site",
 			"OvpnPortTCP": "1147",
 			"OvpnPortUDP": "55",
 			"OvpnPortSSL": "443",
-			"SquidPort": "8000",
+			"SquidPort": "80",
 			"WarnMsg": false,
 		    "Cert":"A",
 			"Torrent": false
 		},
 		{
-			"Name": "Server 38",
+			"Name": "Server 8",
 			"ServerHost": "my8.a2zspecial.site",
 			"OvpnPortTCP": "1147",
 			"OvpnPortUDP": "55",
 			"OvpnPortSSL": "443",
-			"SquidPort": "8000",
+			"SquidPort": "80",
 			"WarnMsg": false,
 			"Cert":"A",
 			"Torrent": false
 		},
 	{
-			"Name": "Server 39",
+			"Name": "Server 9",
 			"ServerHost": "my9.a2zspecial.site",
 			"OvpnPortTCP": "1147",
 			"OvpnPortUDP": "55",
 			"OvpnPortSSL": "443",
-			"SquidPort": "8000",
+			"SquidPort": "80",
 			"WarnMsg": false,
 		    "Cert":"A",
 			"Torrent": false
 		},
 		{
-			"Name": "Server 40",
+			"Name": "Server 10",
 			"ServerHost": "my10.a2zspecial.site",
 			"OvpnPortTCP": "1147",
 			"OvpnPortUDP": "55",
 			"OvpnPortSSL": "443",
-			"SquidPort": "8000",
+			"SquidPort": "80",
+			"WarnMsg": false,
+			"Cert":"A",
+			"Torrent": false
+		},
+		{
+			"Name": "Server 11",
+			"ServerHost": "my11.a2zspecial.site",
+			"OvpnPortTCP": "1147",
+			"OvpnPortUDP": "55",
+			"OvpnPortSSL": "443",
+			"SquidPort": "80",
+			"WarnMsg": false,
+			"Cert":"A",
+			"Torrent": false
+		},
+		{
+			"Name": "Server 12",
+			"ServerHost": "my12.a2zspecial.site",
+			"OvpnPortTCP": "1147",
+			"OvpnPortUDP": "55",
+			"OvpnPortSSL": "443",
+			"SquidPort": "80",
+			"WarnMsg": false,
+			"Cert":"A",
+			"Torrent": false
+		},
+		{
+			"Name": "Server 13",
+			"ServerHost": "my13.a2zspecial.site",
+			"OvpnPortTCP": "1147",
+			"OvpnPortUDP": "55",
+			"OvpnPortSSL": "443",
+			"SquidPort": "80",
+			"WarnMsg": false,
+			"Cert":"A",
+			"Torrent": false
+		},
+		{
+			"Name": "Server 14",
+			"ServerHost": "my14.a2zspecial.site",
+			"OvpnPortTCP": "1147",
+			"OvpnPortUDP": "55",
+			"OvpnPortSSL": "443",
+			"SquidPort": "80",
+			"WarnMsg": false,
+			"Cert":"A",
+			"Torrent": false
+		},
+		{
+			"Name": "Server 15",
+			"ServerHost": "my10.a2zspecial.site",
+			"OvpnPortTCP": "1147",
+			"OvpnPortUDP": "55",
+			"OvpnPortSSL": "443",
+			"SquidPort": "80",
+			"WarnMsg": false,
+			"Cert":"A",
+			"Torrent": false
+		},
+		{
+			"Name": "Server 16",
+			"ServerHost": "my16.a2zspecial.site",
+			"OvpnPortTCP": "1147",
+			"OvpnPortUDP": "55",
+			"OvpnPortSSL": "443",
+			"SquidPort": "80",
+			"WarnMsg": false,
+			"Cert":"A",
+			"Torrent": false
+		},
+		{
+			"Name": "Server 17",
+			"ServerHost": "my17.a2zspecial.site",
+			"OvpnPortTCP": "1147",
+			"OvpnPortUDP": "55",
+			"OvpnPortSSL": "443",
+			"SquidPort": "80",
+			"WarnMsg": false,
+			"Cert":"A",
+			"Torrent": false
+		},
+		{
+			"Name": "Server 18",
+			"ServerHost": "my18.a2zspecial.site",
+			"OvpnPortTCP": "1147",
+			"OvpnPortUDP": "55",
+			"OvpnPortSSL": "443",
+			"SquidPort": "80",
+			"WarnMsg": false,
+			"Cert":"A",
+			"Torrent": false
+		},
+		{
+			"Name": "Server 19",
+			"ServerHost": "my19.a2zspecial.site",
+			"OvpnPortTCP": "1147",
+			"OvpnPortUDP": "55",
+			"OvpnPortSSL": "443",
+			"SquidPort": "80",
+			"WarnMsg": false,
+			"Cert":"A",
+			"Torrent": false
+		},
+		{
+			"Name": "Server 20",
+			"ServerHost": "my20.a2zspecial.site",
+			"OvpnPortTCP": "1147",
+			"OvpnPortUDP": "55",
+			"OvpnPortSSL": "443",
+			"SquidPort": "80",
 			"WarnMsg": false,
 			"Cert":"A",
 			"Torrent": false
 		},
 	{
-			"Name": "Server 51",
+			"Name": "Server 21",
 			"ServerHost": "mg1.a2zspecial.site",
 			"OvpnPortTCP": "443",
 			"OvpnPortUDP": "55",
@@ -965,7 +855,7 @@
 			"Torrent": false
 		},
 	{
-			"Name": "Server 52",
+			"Name": "Server 22",
 			"ServerHost": "mg2.a2zspecial.site",
 			"OvpnPortTCP": "443",
 			"OvpnPortUDP": "55",
@@ -976,7 +866,7 @@
 			"Torrent": false
 		},
 	{
-			"Name": "Server 53",
+			"Name": "Server 23",
 			"ServerHost": "mg3.a2zspecial.site",
 			"OvpnPortTCP": "443",
 			"OvpnPortUDP": "55",
@@ -987,7 +877,7 @@
 			"Torrent": false
 		},
 	{
-			"Name": "Server 54",
+			"Name": "Server 24",
 			"ServerHost": "mg4.a2zspecial.site",
 			"OvpnPortTCP": "443",
 			"OvpnPortUDP": "55",
@@ -998,7 +888,7 @@
 			"Torrent": false
 		},
 	{
-			"Name": "Server 55",
+			"Name": "Server 25",
 			"ServerHost": "mg5.a2zspecial.site",
 			"OvpnPortTCP": "443",
 			"OvpnPortUDP": "55",
@@ -1009,7 +899,7 @@
 			"Torrent": false
 		},
 	{
-			"Name": "Server 56",
+			"Name": "Server 26",
 			"ServerHost": "mg6.a2zspecial.site",
 			"OvpnPortTCP": "443",
 			"OvpnPortUDP": "55",
@@ -1020,7 +910,7 @@
 			"Torrent": false
 		},
 	{
-			"Name": "Server 57",
+			"Name": "Server 27",
 			"ServerHost": "mg7.a2zspecial.site",
 			"OvpnPortTCP": "443",
 			"OvpnPortUDP": "55",
@@ -1031,7 +921,7 @@
 			"Torrent": false
 		},
 	{
-			"Name": "Server 58",
+			"Name": "Server 28",
 			"ServerHost": "mg8.a2zspecial.site",
 			"OvpnPortTCP": "443",
 			"OvpnPortUDP": "55",
@@ -1042,7 +932,7 @@
 			"Torrent": false
 		},
 	{
-			"Name": "Server 59",
+			"Name": "Server 29",
 			"ServerHost": "mg9.a2zspecial.site",
 			"OvpnPortTCP": "443",
 			"OvpnPortUDP": "55",
@@ -1053,7 +943,7 @@
 			"Torrent": false
 		},
 	{
-			"Name": "Server 60",
+			"Name": "Server 30",
 			"ServerHost": "mg10.a2zspecial.site",
 			"OvpnPortTCP": "443",
 			"OvpnPortUDP": "55",
@@ -1064,7 +954,7 @@
 			"Torrent": false
 		},
 	{
-			"Name": "Server 61",
+			"Name": "Server 31",
 			"ServerHost": "mg11.a2zspecial.site",
 			"OvpnPortTCP": "443",
 			"OvpnPortUDP": "55",
@@ -1075,7 +965,7 @@
 			"Torrent": false
 		},
 	{
-			"Name": "Server 62",
+			"Name": "Server 22",
 			"ServerHost": "mg12.a2zspecial.site",
 			"OvpnPortTCP": "443",
 			"OvpnPortUDP": "55",
@@ -1086,7 +976,7 @@
 			"Torrent": false
 		},
 	{
-			"Name": "Server 63",
+			"Name": "Server 33",
 			"ServerHost": "mg13.a2zspecial.site",
 			"OvpnPortTCP": "443",
 			"OvpnPortUDP": "55",
@@ -1097,7 +987,7 @@
 			"Torrent": false
 		},
 	{
-			"Name": "Server 64",
+			"Name": "Server 34",
 			"ServerHost": "mg14.a2zspecial.site",
 			"OvpnPortTCP": "443",
 			"OvpnPortUDP": "55",
@@ -1108,7 +998,7 @@
 			"Torrent": false
 		},
 	{
-			"Name": "Server 65",
+			"Name": "Server 35",
 			"ServerHost": "mg15.a2zspecial.site",
 			"OvpnPortTCP": "443",
 			"OvpnPortUDP": "55",
@@ -1119,7 +1009,7 @@
 			"Torrent": false
 		},
 	{
-			"Name": "Server 66",
+			"Name": "Server 36",
 			"ServerHost": "mg16.a2zspecial.site",
 			"OvpnPortTCP": "443",
 			"OvpnPortUDP": "55",
@@ -1130,7 +1020,7 @@
 			"Torrent": false
 		},
 	{
-			"Name": "Server 67",
+			"Name": "Server 37",
 			"ServerHost": "mg17.a2zspecial.site",
 			"OvpnPortTCP": "443",
 			"OvpnPortUDP": "55",
@@ -1141,7 +1031,7 @@
 			"Torrent": false
 		},
 	{
-			"Name": "Server 68",
+			"Name": "Server 38",
 			"ServerHost": "mg18.a2zspecial.site",
 			"OvpnPortTCP": "443",
 			"OvpnPortUDP": "55",
@@ -1152,7 +1042,7 @@
 			"Torrent": false
 		},
 	{
-			"Name": "Server 69",
+			"Name": "Server 39",
 			"ServerHost": "mg19.a2zspecial.site",
 			"OvpnPortTCP": "443",
 			"OvpnPortUDP": "55",
@@ -1163,7 +1053,7 @@
 			"Torrent": false
 		},
 	{
-			"Name": "Server 70",
+			"Name": "Server 40",
 			"ServerHost": "mg20.a2zspecial.site",
 			"OvpnPortTCP": "443",
 			"OvpnPortUDP": "55",
@@ -1174,7 +1064,7 @@
 			"Torrent": false
 		},
 	{
-			"Name": "Server 71",
+			"Name": "Server 41",
 			"ServerHost": "mg21.a2zspecial.site",
 			"OvpnPortTCP": "443",
 			"OvpnPortUDP": "55",
@@ -1185,7 +1075,7 @@
 			"Torrent": false
 		},
 	{
-			"Name": "Server 72",
+			"Name": "Server 42",
 			"ServerHost": "mg22.a2zspecial.site",
 			"OvpnPortTCP": "443",
 			"OvpnPortUDP": "55",
@@ -1196,7 +1086,7 @@
 			"Torrent": false
 		},
 	{
-			"Name": "Server 73",
+			"Name": "Server 43",
 			"ServerHost": "mg23.a2zspecial.site",
 			"OvpnPortTCP": "443",
 			"OvpnPortUDP": "55",
@@ -1207,7 +1097,7 @@
 			"Torrent": false
 		},
 	{
-			"Name": "Server 74",
+			"Name": "Server 44",
 			"ServerHost": "mg24.a2zspecial.site",
 			"OvpnPortTCP": "443",
 			"OvpnPortUDP": "55",
@@ -1218,7 +1108,7 @@
 			"Torrent": false
 		},
 	{
-			"Name": "Server 75",
+			"Name": "Server 45",
 			"ServerHost": "mg25.a2zspecial.site",
 			"OvpnPortTCP": "443",
 			"OvpnPortUDP": "55",
@@ -1229,7 +1119,7 @@
 			"Torrent": false
 		},
 	{
-			"Name": "Server 76",
+			"Name": "Server 46",
 			"ServerHost": "mg26.a2zspecial.site",
 			"OvpnPortTCP": "443",
 			"OvpnPortUDP": "55",
@@ -1240,7 +1130,7 @@
 			"Torrent": false
 		},
 	{
-			"Name": "Server 77",
+			"Name": "Server 47",
 			"ServerHost": "mg27.a2zspecial.site",
 			"OvpnPortTCP": "443",
 			"OvpnPortUDP": "55",
@@ -1251,7 +1141,7 @@
 			"Torrent": false
 		},
 	{
-			"Name": "Server 78",
+			"Name": "Server 48",
 			"ServerHost": "mg28.a2zspecial.site",
 			"OvpnPortTCP": "443",
 			"OvpnPortUDP": "55",
@@ -1262,7 +1152,7 @@
 			"Torrent": false
 		},
 	{
-			"Name": "Server 79",
+			"Name": "Server 49",
 			"ServerHost": "mg29.a2zspecial.site",
 			"OvpnPortTCP": "443",
 			"OvpnPortUDP": "55",
@@ -1273,7 +1163,7 @@
 			"Torrent": false
 		},
 	{
-			"Name": "Server 80",
+			"Name": "Server 50",
 			"ServerHost": "mg30.a2zspecial.site",
 			"OvpnPortTCP": "443",
 			"OvpnPortUDP": "55",
