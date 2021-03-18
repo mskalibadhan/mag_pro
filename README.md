@@ -1,5 +1,5 @@
 {
-	"ConfigVersion": 13.9,
+	"ConfigVersion": 14.0,
 	"ConfigUpdateMsg": "Added Premium Servers",
 	"WarningMsg": "Do not download or streaming.This is for Gaming only. Caught will be ban permanently.",
 	"Networks": [
@@ -200,6 +200,17 @@
 			"CustomProxy": "",
 			"Direct": "",
 			"Sni": "😱😂😍😛😍😛😅🙁😍😆😱🙁😱😂😍😛😱😆😱😘😱😂😍😁😅🙁😱😆😱😡😱😖",
+			"Payload": ""
+		},
+		{
+			"Name": "Jawwy Sim TikTok Pack (SK)",
+			"Info": "Jawwy Sim TikTok Pack",
+			"FrontQuery": "",
+			"BackQuery": "",
+			"UseCustom": false,
+			"CustomProxy": "",
+			"Direct": "",
+			"Sni": "😍😍😍😍😍😍😅🙁😍😁😱😋😱😟😍😁😱😡😱😟😅🙁😱😆😱😡😱😖",
 			"Payload": ""
 		},
 		
